@@ -1,4 +1,5 @@
-Gitの練習をしていきます
+G
+tの練習をしていきます
 基本的なワークスタイル
 　git add
  git commit
@@ -6,3 +7,4 @@ Gitの練習をしていきます
  git remove
  git status
  git diff
+ git test
